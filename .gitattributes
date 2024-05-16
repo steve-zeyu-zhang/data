@@ -1,0 +1,2 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+ImageToStl.com_bear.glb filter=lfs diff=lfs merge=lfs -text
